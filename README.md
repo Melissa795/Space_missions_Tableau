@@ -31,10 +31,3 @@ Questa dashboard riassuntiva è stata creata per visualizzare e analizzare i dat
 
 ### Dove visualizzare la Dashboard
 Dashboard disponibile al seguente [link](https://public.tableau.com/app/profile/melissa.proietti/viz/SpaceMissionResumefrom1957to2022/Dashboard1?publish=yes).
-
-I contributi sono benvenuti! Sentiti libero di aprire issue per segnalare bug o proporre nuove funzionalità attraverso pull request.
-
-## Licenza
-
-Questo progetto è distribuito sotto la licenza MIT. Per ulteriori dettagli, consulta il file `LICENSE`.
-
